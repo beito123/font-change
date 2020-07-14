@@ -13,10 +13,6 @@ function changeFont(font) {
     document.querySelector("div").style.fontFamily= font;
     document.querySelector("h1").style.fontFamily= font;
     document.querySelector("h2").style.fontFamily= font;
-    document.querySelector("h3").style.fontFamily= font;
-    document.querySelector("h4").style.fontFamily= font;
-    document.querySelector("h5").style.fontFamily= font;
-    document.querySelector("h6").style.fontFamily= font;
 }
 
 module.exports.getSettings = function () {
