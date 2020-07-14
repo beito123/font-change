@@ -4,19 +4,8 @@
  * @license MIT
  */
 
-const FrameworkView = require('framework/views/view');
-const frameworkViewRender = FrameworkView.prototype.render;
-FrameworkView.prototype.render = function () {
-    frameworkViewRender.apply(this);
-    return this;
-};
-
 function changeFont(font) {
-    FrameworkView.prototype.render = function () {
-        frameworkViewRender.apply(this);
-        this.$el.find('.app').style["font-family"] = font;
-        return this;
-    };
+    document.getElementsByClassName("app").style["font-family"] = font;
 }
 
 module.exports.getSettings = function () {
@@ -41,5 +30,4 @@ module.exports.setSettings = function (changes) {
 };
 
 module.exports.uninstall = function() {
-    FrameworkView.prototype.render = frameworkViewRender;
 };

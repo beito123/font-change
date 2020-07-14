@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "1.0.1",
   "manifestVersion": "0.1.0",
   "name": "font-change",
   "description": "Change a font which you like",
@@ -9,7 +9,7 @@
     "url": "https://github.com/"
   },
   "resources": {
-    "js": "BUO226fLDCuNw13gRMDmVRspMz8AVlBK8fEf4PQFb+DwID2tVVh8TzMlybXzk8cFEqWqvLxo+cUCjFjRR3BnlWloZ5F6u9E3aBqWks/vFUCt4Of/uBpZ8qRYl/bpCQYCuhqGKKK9Li7iXr3Y4KBdZTIGqtMP6VSs7nItWO2XrwR+rYnLd3NJCUIJIF7+enV0KVFZTXL69wRdGSbf4BZprMV2vHpBU56aK+sF0EyrqRHVnnjfX3dUzQZTLwk/kxmhvPJZ9rdDOXl2lNZKGmzxYoaYS0pwciapjUJBf25UdM2DUMw45PtOWKObKlHYybIpm1Rlkt0q/Qk0/ITl5SXNzg=="
+    "js": "n0kPE9vF3dqsx+2I/Eyl5qmGlFtgV1yuiD2YkVxZ7Kuq9BjHt/kaFqd08bG5uAyyvX22/0FPTlR81CRrwJzNKHH+gRAa//MKe9X23+d00/qBc/B5JRs95DRziuhrD1nvxdQJwrMkD1lN6AC646/viEe82V7Nu0a8ar9+qj5e/5J1VA7ppNZuD1wp62gLtgWRjHUsfqieZpBjdvR4TnfC69cwUYWf6/Hdb9wEJR+iXBaSyXJc826NzrzRieqDohyNKmjHwVC7BRTrsFWwunrWNjbDFI591BYWUpPKfhX3I7WmD/ElkXQI7Bn6aQs21YRPyJNEJze1YuXFmqAiDHS6Ag=="
   },
   "license": "MIT",
   "url": "http://example.com",
