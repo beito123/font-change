@@ -11,8 +11,6 @@ function changeFont(font) {
     document.querySelector("input").style.fontFamily= font;
     document.querySelector("button").style.fontFamily= font;
     document.querySelector("div").style.fontFamily= font;
-    document.querySelector("h1").style.fontFamily= font;
-    document.querySelector("h2").style.fontFamily= font;
 }
 
 module.exports.getSettings = function () {
