@@ -5,7 +5,7 @@
  */
 
 function changeFont(font) {
-    document.getElementsByClassName("app").style["font-family"] = font;
+    document.querySelector('.app').style.fontFamily= font;
 }
 
 module.exports.getSettings = function () {
