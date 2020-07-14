@@ -11,7 +11,12 @@ function changeFont(font) {
     document.querySelector("input").style.fontFamily= font;
     document.querySelector("button").style.fontFamily= font;
     document.querySelector("div").style.fontFamily= font;
-    document.querySelectorAll('h1, h2, h3, h4, h5, h6').style.fontFamily= font;
+    document.querySelector("h1").style.fontFamily= font;
+    document.querySelector("h2").style.fontFamily= font;
+    document.querySelector("h3").style.fontFamily= font;
+    document.querySelector("h4").style.fontFamily= font;
+    document.querySelector("h5").style.fontFamily= font;
+    document.querySelector("h6").style.fontFamily= font;
 }
 
 module.exports.getSettings = function () {
