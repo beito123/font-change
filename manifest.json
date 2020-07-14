@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "font-change",
+  "description": "Change a font which you like",
+  "author": {
+    "name": "bei2",
+    "email": "mattcha@gmx.com",
+    "url": "https://github.com/"
+  },
+  "resources": {
+    "js": "BUO226fLDCuNw13gRMDmVRspMz8AVlBK8fEf4PQFb+DwID2tVVh8TzMlybXzk8cFEqWqvLxo+cUCjFjRR3BnlWloZ5F6u9E3aBqWks/vFUCt4Of/uBpZ8qRYl/bpCQYCuhqGKKK9Li7iXr3Y4KBdZTIGqtMP6VSs7nItWO2XrwR+rYnLd3NJCUIJIF7+enV0KVFZTXL69wRdGSbf4BZprMV2vHpBU56aK+sF0EyrqRHVnnjfX3dUzQZTLwk/kxmhvPJZ9rdDOXl2lNZKGmzxYoaYS0pwciapjUJBf25UdM2DUMw45PtOWKObKlHYybIpm1Rlkt0q/Qk0/ITl5SXNzg=="
+  },
+  "license": "MIT",
+  "url": "http://example.com",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA40SepYPyF35Z7XgZDfvlpQUUHi1UoJWJOhmyln0UsG70c4mkCHRAOY1t7XqUe+ByjQaH+CDtvuPPu2YfFU94/sMsh61Eus1tPwIiv374xf/SOVyF2HUMY5JBBVi62Xk6jStrC6A/qAccfANTlMSVjDAKc9eA5Ec3+o6Wd1/rVHym8WQRe5hXxThrkzrMk+M4fkG5jIkWav5luitQQ8EcBoefGc7cjx4+ZJw+AInpc2N0632CauE0yMP9sCOmzvsfZ08X3BSsJ+ktxI7MNUFOWDYNgtzULXhrDyKdtQY+j10UA4FpD1IM7f1AJ9vkZLs3WyaIt3y47cqWl0fs/67hBQIDAQAB"
+}
