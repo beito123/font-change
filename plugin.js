@@ -16,7 +16,7 @@ module.exports.getSettings = function () {
             type: 'text',
             maxlength: 200,
             placeholder: 'fonts',
-            value: ''
+            value: '"Noto Sans", "MotoyaLMaru W3 mono", "Noto Sans CJK"'
         }
     ];
 };
