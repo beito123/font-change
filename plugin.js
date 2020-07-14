@@ -30,4 +30,5 @@ module.exports.setSettings = function (changes) {
 };
 
 module.exports.uninstall = function() {
+    
 };
