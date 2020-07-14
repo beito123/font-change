@@ -8,7 +8,7 @@ function changeFont(font) {
     document.querySelector("*").style.fontFamily= font;
     document.querySelector(".app").style.fontFamily= font;
     document.querySelector("label").style.fontFamily= font;
-    document.querySelector("option").style.fontFamily= font;
+    document.querySelector("input").style.fontFamily= font;
     document.querySelector("button").style.fontFamily= font;
     document.querySelector("div").style.fontFamily= font;
     document.querySelectorAll('h1, h2, h3, h4, h5, h6').style.fontFamily= font;
